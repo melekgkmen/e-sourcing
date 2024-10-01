@@ -1,0 +1,6 @@
+@ESourcing.APIGateway_HostAddress = http://localhost:5156
+
+GET {{ESourcing.APIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
